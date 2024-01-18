@@ -8,6 +8,10 @@ An intelligent player for the Connect-6 game, utilizing the Minimax Algorithm, A
 
 This project was developed as part of a group assignment for an AI course in the third year at the Faculty of Computer Science & Artificial Intelligence.
 
+## Documentation
+
+The project includes comprehensive documentation 
+
 ## Table of Contents
 
 - [Minimax Algorithm Implementation](#minimax-algorithm-implementation)
@@ -15,6 +19,7 @@ This project was developed as part of a group assignment for an AI course in the
 - [Heuristic Function Design](#heuristic-function-design)
 - [User-Friendly Interface](#user-friendly-interface)
 - [Optimization and Performance](#optimization-and-performance)
+- [Documentation](#documentation)
 - [Conclusion](#conclusion)
 
 ## Minimax Algorithm Implementation
