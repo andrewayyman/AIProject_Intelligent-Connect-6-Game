@@ -4,6 +4,10 @@
 
 An intelligent player for the Connect-6 game, utilizing the Minimax Algorithm, Alpha-Beta Pruning, and Heuristic Functions. Connect-6 is an extended version of Connect Four, played on a 19x19 grid where the objective is to connect six markers in a row horizontally, vertically, or diagonally.
 
+## Project Context
+
+This project was developed as part of a group assignment for an AI course in the third year at the Faculty of Computer Science & Artificial Intelligence.
+
 ## Table of Contents
 
 - [Minimax Algorithm Implementation](#minimax-algorithm-implementation)
